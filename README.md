@@ -1,5 +1,5 @@
 ## Hey! 👋
-I'm eautopian.<br/>
+I'm @**eautopian**, you can find me on most platforms with the same handle.<br/>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=eautopian&label=Profile%20views&color=0e75b6&style=flat" alt="r-unic" />
 </p>
